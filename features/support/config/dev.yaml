@@ -1,0 +1,11 @@
+---
+dev: "http://localhost:8000"
+database: 
+  host: "127.0.0.1"
+  dbname: "nflix"
+  user: "postgres"
+  password: "qaninja"
+users:
+  cat_manager:
+    email: 'tony@stark.com'
+    pass: "pwd123"
